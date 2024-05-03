@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:#207F60;
+    font-size: 26px;
+    padding-top: 19px;
+   padding-bottom:19px
+}
+
+header a{
+    text-decoration: none;
+    color: #60D4AE
+}
+
+footer{
+    background-color: #60D4AE;
+    padding: 13px;
+}
